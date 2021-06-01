@@ -15,11 +15,11 @@ h3{
 }
 
 .purple {
-  background-color: purple;
+  background-color: hsl(184, 100%, 22%);
 }
 
 .green {
-  background-color: green;
+  background-color: hsl(179, 100%, 13%);
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
 }
