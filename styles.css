@@ -1,0 +1,55 @@
+body{
+  color: white;
+}
+h3{
+  margin-bottom: 10%;
+}
+.chart {
+  padding: 5% 20%;
+}
+
+.orange {
+  background-color: orange;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.green {
+  background-color: green;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.child {
+  padding: 50px;
+  /* text-align: center; */
+}
+
+.button-orange:hover{
+  color: orange;
+}
+.button-purple:hover{
+  color: purple;
+}
+.button-green:hover{
+  color: green;
+}
+.button {
+  margin: 10% 20% 0;
+  width: 60%;
+  border-radius: 22.5px;
+}
+.attribution{
+  color: black;
+  text-align: center;
+}
+.icon-image {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  margin-bottom: 10%;
+}
